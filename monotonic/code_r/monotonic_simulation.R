@@ -1,7 +1,7 @@
 #### ************************ Header ************************ ####
-# File: monotonic_preservation.R                                 #
+# File: monotonic_simulation.R                                   #
 # Author: ian2j                                                  #
-# Last Modified: 23JUL2016                                       #
+# Last Modified: 06AUG2016                                       #
 # Purpose: Test an idea to force a fitted curve to be monotonic  #
 # ************************************************************** #
 
